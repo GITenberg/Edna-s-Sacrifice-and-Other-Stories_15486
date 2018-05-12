@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6089'
     url: http://www.gutenberg.org/2009/agents/6089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15486#Edna-s-Sacrifice-and-Other-Stories
 gutenberg_issued: '2005-03-28'
 gutenberg_type: Text
 identifiers:
