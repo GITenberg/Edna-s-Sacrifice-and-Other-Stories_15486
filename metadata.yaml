@@ -1,0 +1,28 @@
+_repo: Edna-s-Sacrifice-and-Other-Stories_15486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baden, Frances Henshaw
+    deathdate: 1911
+    gutenberg_agent_id: '6089'
+    url: http://www.gutenberg.org/2009/agents/6089
+description: ''
+gutenberg_issued: '2005-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: Edna's Sacrifice -- Who Was the Thief? -- The Ghost -- The Two Brothers
+  -- What He Left.
+title: Edna's Sacrifice and Other Stories
+url: http://www.gutenberg.org/ebooks/15486
